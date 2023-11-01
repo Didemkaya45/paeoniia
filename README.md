@@ -5,4 +5,4 @@ The group member are as follows:
 
 |name|e-mail| 
 |-----|------|
-Didem Kaya
+|Didem Kaya| didemkaya043@gmail.com|
