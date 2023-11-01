@@ -1,2 +1,6 @@
-# paeoniia
-This is my repository
+# Project CMB I
+This is our first collaborative programing project.
+
+The group member are as follows:
+
+
